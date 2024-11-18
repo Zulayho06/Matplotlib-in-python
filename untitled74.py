@@ -7,6 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1rXC3yQ34UrGPDBox1pIrJMkOeNj9H_Zn
 """
 
+To'g'ri chiziq chizish
 import matplotlib.pyplot as plt
 import numpy as np
 x=np.array([0,8])
@@ -27,6 +28,7 @@ y=np.array([3,8,1,10])
 plt.plot(y, marker='D')
 plt.show()
 
+Parobola chizish
 import numpy as np
 import matplotlib.pyplot as plt
 
